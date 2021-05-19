@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: pl.bclogic:pulsator4droid:1.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/pulsator4droid-1.0.3.aar/18220a75ab16e272a003832c594a4dd9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/pulsator4droid-1.0.3.aar/18220a75ab16e272a003832c594a4dd9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/pulsator4droid-1.0.3.aar/18220a75ab16e272a003832c594a4dd9/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/pulsator4droid-1.0.3.aar/43b8e3fe759ca8918c4612a0bb26fba4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/pulsator4droid-1.0.3.aar/43b8e3fe759ca8918c4612a0bb26fba4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/pulsator4droid-1.0.3.aar/43b8e3fe759ca8918c4612a0bb26fba4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/pl.bclogic/pulsator4droid/1.0.3/2a6fee9b6411f7832259675e63c77ca64a520d98/pulsator4droid-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

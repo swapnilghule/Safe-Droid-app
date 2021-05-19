@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!--All the components Strings that are shown on the screen-->
+    <string name="app_name">CallBlock</string>
+    <string name="activity_drive_mode_enabled_enabled_text">ड्राइव्ह मोड सक्षम करा</string>
+    <string name="activity_drive_mode_enabled_disableDriveMode">ड्राइव्ह मोड अक्षम करण्यासाठी \n लॉन्ग प्रेस करा </string>
+    <string name="fragment_drive_mode_autoEnableText">स्वयं ड्राइव्ह मोड सक्षम करा</string>
+    <string name="fragment_auto_reply_sendAutoReplyText">ऑटो उत्तर पाठवा</string>
+    <string name="fragment_auto_reply_defaultAutoReplyText">डीफॉल्ट ऑटो उत्तर\n सेट करा</string>
+    <string name="fragment_auto_reply_setAutoReplyButton">स्वयं प्रत्युत्तर बदला</string>
+    <string name="fragment_call_logs_callLogText">कॉल लॉग</string>
+    <string name="drive_mode_tab">ड्राइव्ह मोड</string>
+    <string name="auto_reply_tab">स्वयं उत्तर</string>
+    <string name="call_logs_tab">कॉल लॉग</string>
+
+    <!--OnBoardingActivity Strings-->
+    <string name="slide_1_title">आपला प्रदेश, आपली भाषा !</string>
+    <string name="slide_1_content">सेफ ड्रायड भारताने भारतासाठी तयार केला आहे आणि त्यात विविध स्थानिक भाषेचा आधार आहे.</string>
+    <string name="slide_2_title">कॉल आणि संदेश ब्लॉक करणे</string>
+    <string name="slide_2_content">सर्व कॉल नाकारले जातील आणि ड्राइव्ह मोड अक्षम होईपर्यंत संदेश शांत केले जातील.</string>
+    <string name="slide_3_title">स्वयं ड्राइव्ह मोड सक्षम करा</string>
+    <string name="slide_3_content">20 किमी / तासांपेक्षा वेगाने पोहोचल्यावर ड्राइव्ह मोड स्वयंचलितपणे सक्षम केला जाईल.</string>
+    <string name="slide_4_title">सवारी नंतर सूचना</string>
+    <string name="slide_4_content">आपली सायकल पूर्ण झाल्यानंतर, आपल्याला गाडी चालवत असताना गमावलेल्या कॉलबद्दल आपल्याला सूचित केले जाईल.</string>
+    <string name="slide_5_title">ऑटो रिप्लाय मजकूर संदेश</string>
+    <string name="slide_5_content">ड्राइव्ह मोड आणि ऑटो रिप्लाय सक्षम असताना आपण / कॉल केल्यास कॉलरला एक एसएमएस पाठविला जाईल</string>
+    <string name="slide_6_title">आपत्कालीन कॉल</string>
+    <string name="slide_6_content">आणीबाणी कॉल अवरोधित नसल्याची खात्री करण्यासाठी, कॉलर \'आपातकालीन' एसएमएस पाठवित असल्यास आपल्याला सूचित केले जाईल</string>
+
+
+</resources>

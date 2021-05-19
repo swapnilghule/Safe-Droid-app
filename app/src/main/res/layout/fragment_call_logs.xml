@@ -1,0 +1,30 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.core.labs.callblock.Fragments.CallLogsFragment"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/callLogText"
+        android:text="@string/fragment_call_logs_callLogText"
+        android:textSize="24sp"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:layout_margin="15dp"
+        />
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/callLogsListView"
+        android:layout_below="@+id/callLogText"
+        android:layout_margin="10dp"
+        android:divider="@null"
+        android:scrollbars="none"
+        />
+
+</LinearLayout>

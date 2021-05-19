@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--All the components Strings that are shown on the screen-->
+    <string name="app_name">Safe Drive Droid</string>
+    <string name="activity_drive_mode_enabled_enabled_text">ड्राइव मोड सक्षम</string>
+    <string name="activity_drive_mode_enabled_disableDriveMode">डड्राइव मोड अक्षम करने \nके लिए लांग प्रेस करे</string>
+    <string name="fragment_drive_mode_autoEnableText">ड्राइव मोड को सक्षम करे</string>
+    <string name="fragment_auto_reply_sendAutoReplyText">ऑटो उत्तर \nभेजें</string>
+    <string name="fragment_auto_reply_defaultAutoReplyText">डिफ़ॉल्ट ऑटो उत्तर \nसेट करें</string>
+    <string name="fragment_auto_reply_setAutoReplyButton">ऑटो उत्तर बदलें</string>
+    <string name="fragment_call_logs_callLogText">कॉल लॉग</string>
+    <string name="drive_mode_tab">ड्राइव मोड</string>
+    <string name="auto_reply_tab">ऑटो उत्तर</string>
+    <string name="call_logs_tab">कॉल लॉग</string>
+
+    <!--OnBoardingActivity Strings-->
+    <string name="slide_1_title">आपका क्षेत्र, आपकी भाषा!</string>
+    <string name="slide_1_content">सेफ ड्राइव ड्रोइड भारत द्वारा भारत के लिए बनाया गया है और इसमें विभिन्न स्थानीय भाषाओं का समर्थन हैं।</string>
+    <string name="slide_2_title">कॉल और संदेश अवरुद्ध</string>
+    <string name="slide_2_content">सभी कॉल अस्वीकार कर दिए जाएंगे और जब तक ड्राइव मोड अक्षम नहीं किया जाता तब तक संदेशों को चुप किया जाएगा।</string>
+    <string name="slide_3_title">ड्राइव मोड ऑटो सक्षम करे</string>
+    <string name="slide_3_content">20 किमी / घंटा से ऊपर की गति पहुंचने पर ड्राइव मोड स्वचालित रूप से सक्षम हो जाएगा।</string>
+    <string name="slide_4_title">सवारी के बाद अधिसूचना</string>
+    <string name="slide_4_content">अपनी सवारी पूरी होने के बाद, आपको ड्राइविंग करते समय याद किए गए कॉल के बारे में सूचित किया जाएगा।</string>
+    <string name="slide_5_title">ऑटो उत्तर पाठ संदेश</string>
+    <string name="slide_5_content">कॉलर को एक एसएमएस भेजा जाएगा, यदि वह आपको कॉल करता है, जबकि ड्राइव मोड और ऑटो उत्तर सक्षम है।</string>
+    <string name="slide_6_title">आपातकालीन कॉल</string>
+    <string name="slide_6_content">यह सुनिश्चित करने के लिए कि आपातकालीन कॉल को अवरुद्ध नहीं किया गया है, अगर कॉलर एक \'Emergency\' एसएमएस भेजता है, तो आपको सूचित किया जाएगा</string>
+
+</resources>

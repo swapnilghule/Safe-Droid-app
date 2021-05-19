@@ -1,0 +1,30 @@
+<resources>
+
+    <!--All the components Strings that are shown on the screen-->
+    <string name="app_name">Safe Drive Droid</string>
+    <string name="activity_drive_mode_enabled_enabled_text">Drive Mode Enabled</string>
+    <string name="activity_drive_mode_enabled_disableDriveMode">Long Press to \nDisable Drive Mode</string>
+    <string name="fragment_drive_mode_autoEnableText">Auto Enable Drive Mode</string>
+    <string name="fragment_auto_reply_sendAutoReplyText">Send Auto \nReply</string>
+    <string name="fragment_auto_reply_defaultAutoReplyText">Set Default \nAuto Reply</string>
+    <string name="fragment_auto_reply_setAutoReplyButton">Change auto reply</string>
+    <string name="fragment_call_logs_callLogText">Call Logs</string>
+    <string name="drive_mode_tab">Drive Mode</string>
+    <string name="auto_reply_tab">Auto Reply</string>
+    <string name="call_logs_tab">Call Logs</string>
+
+    <!--OnBoardingActivity Strings-->
+    <string name="slide_1_title">Your Region, Your Language!</string>
+    <string name="slide_1_content">Safe Drive Droid is made by India for India and has various local language support.</string>
+    <string name="slide_2_title">Calls and Message Blocking</string>
+    <string name="slide_2_content">All the calls will be rejected and messages will be silenced until Drive Mode is disabled.</string>
+    <string name="slide_3_title">Auto Enable Drive Mode</string>
+    <string name="slide_3_content">Drive Mode will be enabled automatically when the speed reaches above 20km/hr.</string>
+    <string name="slide_4_title">Notification After Ride</string>
+    <string name="slide_4_content">After your ride is completed, you\'ll be notified about the calls that you missed while driving.</string>
+    <string name="slide_5_title">Auto Reply Text Messages</string>
+    <string name="slide_5_content">An SMS will be sent to the caller if he/she calls you while Drive Mode and Auto Reply is enabled</string>
+    <string name="slide_6_title">Emergency Calls</string>
+    <string name="slide_6_content">To ensure that Emergency calls are not blocked, you\'ll be notified if the caller sends an \'Emergency\' SMS</string>
+
+</resources>
