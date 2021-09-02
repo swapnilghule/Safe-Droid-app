@@ -23,7 +23,7 @@ support with SQLite database on local system.
 
 ![WhatsApp Image 2021-09-02 at 17 29 14 (1)](https://user-images.githubusercontent.com/67332665/131839878-7910053e-acf0-4c3a-abd2-f3182e84a09a.jpeg)
 ![WhatsApp Image 2021-09-02 at 17 29 14 (2)](https://user-images.githubusercontent.com/67332665/131839892-dd68292c-0b78-46c3-bb61-da3a0bb12747.jpeg)
-![WhatsApp Image 2021-09-02 at 17 29 14 (3)](https://user-images.githubusercontent.com/67332665/131839896-48798dc0-36da-4f76-a0aa-f5f68fb99bfb.jpeg)
+
 
 
 
