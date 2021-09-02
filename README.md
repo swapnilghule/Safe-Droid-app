@@ -16,7 +16,7 @@ facility for caller to inform user that he/she is having priority call.
 It is implemented with best practices like notifications, fragments, native language
 support with SQLite database on local system.
 
-![WhatsApp Image 2021-09-02 at 17 14 05 (4)](https://user-images.githubusercontent.com/67332665/131837951-35b379c0-3f48-4014-ac0b-66a4fe2a7593.jpeg)
+![WhatsApp Image 2021-09-02 at 17 14 05 (4)](https://user-images.githubusercontent.com/67332665/131837951-35b379c0-3f48-4014-ac0b-66a4fe2a7593.jpeg | width=100)
 ![WhatsApp Image 2021-09-02 at 17 14 05 (5)](https://user-images.githubusercontent.com/67332665/131837957-36e7fdcb-3dd5-4933-ae3b-482e70cb9860.jpeg)
 ![WhatsApp Image 2021-09-02 at 17 14 06 (1)](https://user-images.githubusercontent.com/67332665/131837958-05169bee-ae30-476f-a011-9f44084d5fbe.jpeg)
 ![WhatsApp Image 2021-09-02 at 17 14 06 (2)](https://user-images.githubusercontent.com/67332665/131837962-00bdb523-575e-4c66-812a-79f950a495a7.jpeg)
